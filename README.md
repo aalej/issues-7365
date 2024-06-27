@@ -27,6 +27,7 @@ i  functions: cleaning up build files...
 
 Error: There was an error deploying functions
 ```
+![image](https://github.com/aalej/issues-7365/assets/118378103/c21e26ef-7128-45c4-8ee9-c044509b0e53)
 
 2. Rename `dummy_function` to `dummy` in functions/main.py
 3. Run `firebase deploy --only functions --project PROJECT_ID`
