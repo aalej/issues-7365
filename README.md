@@ -2,9 +2,9 @@
 
 ## Versions
 
-firebase-tools: v13.12.0<br>
+firebase-tools: v13.24.1<br>
 node: v20.12.2<br>
-platform: macOS Sonoma 14.5
+platform: macOS Sonoma 14.7
 
 ## Setup
 
