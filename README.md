@@ -50,7 +50,8 @@ Error: There was an error deploying functions
 3. Run `firebase deploy --only functions --project PROJECT_ID`
    - ? Would you like to proceed with deletion? Selecting no will continue the rest of the deployments. (Yes)
 
-```i functions: preparing functions directory for uploading...
+```
+i functions: preparing functions directory for uploading...
 i  functions: packaged /Users/<PATH>/issues/7365/functions (1.22 KB) for uploading
 i  functions: ensuring required API cloudtasks.googleapis.com is enabled...
 ✔  functions: required API cloudtasks.googleapis.com is enabled
